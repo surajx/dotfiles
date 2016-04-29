@@ -1,0 +1,14 @@
+[user]
+  name = Suraj Narayanan S
+  email = surajx@gmail.com
+[alias]
+  ci = commit
+  st = status
+  bra = branch -a
+  co = checkout
+  br = branch
+[core]
+  autocrlf = input
+  editor = vim
+[push]
+  default = upstream
